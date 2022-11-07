@@ -1,0 +1,17 @@
+header {
+  background-color: rgb(43, 6, 6);
+  height: 5rem;
+  display: flex;
+  justify-content: space-between;
+  color: rgb(211, 221, 230);
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+}
+
+header i {
+  font-size: 3rem;
+  margin-left: 1rem;
+}
+
+.finance-info-container {
+  width: 29%
+}

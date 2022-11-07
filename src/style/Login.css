@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(82, 13, 13);
+}
+
+.main-container {
+  width: 100%;
+  height: 41.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  width: 20rem;
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.title-container {
+  display:flex
+}
+
+h1 {
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+  color: rgb(211, 221, 230);
+  font-size: 5rem;
+}
+
+.title-container i {
+  color: rgb(211, 221, 230);
+  font-size: 4rem;
+  margin-left: 1rem;
+}
+
+.form-container button {
+  width: 5rem;
+  align-self: center
+}
