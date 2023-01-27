@@ -1,4 +1,4 @@
-<h1>Trybe Wallet<</h1>
+<h1>Trybe Wallet</h1>
 
 <p>
   Trybe Wallet is a currency converter spending control wallet. The user is able to add, remove and edit an expense, view a table with your expenses and 
